@@ -39,7 +39,7 @@
     --col-sky-blue-02: #90C6E1;
     --col-sky-blue-03: #A3D8F4;
 
-    --ff-mono: "Agave Nerd Font";
+    --ff-mono: "FiraCode Nerd Font";
     --ff-weight-base: 400;
 }
 
@@ -91,6 +91,9 @@ body {
     padding: 2.2em 0em;
     justify-content: space-evenly;
 }
+strong.username{
+    text-transform: capitalize;
+}
 #time_welcome h3, #date_weather h3 {
     font-size: 3.2em;
     font-weight: bold;
@@ -106,6 +109,7 @@ body {
     margin: 1em 0em;
     gap: 1em;
     justify-content: center;
+    align-items: start;
 }
 .generic_link {
     width: 100%;

@@ -1,21 +1,27 @@
 {
-    "username": "noriaku",
+    "username": "synapse",
     
-    "country": "Peru",
-    "city": "Lima",
+    "country": "Mexico",
+    "city": "Tepic",
 
     "categories": {
         "work": {
-            "slack": "https://slack.com/",
-            "trello": "https://trello.com"
+            "github": "https://github.com/",
+            "cloudflare": "https://www.cloudflare.com/",
+            "porkbun": "https://porkbun.com/",
+            "spaceship": "https://www.spaceship.com/",
+            "muylinux": "https://www.muylinux.com/"
         },
-        "news": {
-            "xataka": "https://xataka.com",
-            "theverge": "https://theverge.com"
+        "home server": {
+            "proxy": "https://proxy.fries.monster",
+            "portainer": "https://portainer.fries.monster",
+            "komga": "https://komga.fries.monster"
         },
         "social": {
-            "github": "https://github.com",
-            "reddit": "https://reddit.com"
+            "reddit": "https://reddit.com",
+            "facebook": "https://www.facebook.com/",
+            "instagram": "https://www.instagram.com/",
+            "pinterest": "https://www.pinterest.com/"
         }
     }
 }
